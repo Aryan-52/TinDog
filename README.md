@@ -36,5 +36,12 @@ For any questions or feedback, please reach out to aryandandekar14@gmail.com.
 Happy coding and may your dog's love life be ever so fulfilling! 🐶❤️
 
 ## 📷 Images
-![image](https://github.com/user-attachments/assets/5a568bf4-a22d-41d4-8505-6bb2f58a4eca)
+![image](https://github.com/user-attachments/assets/86eb7a29-fa4a-4bd5-8e1c-72c630aa78c1)
+![image](https://github.com/user-attachments/assets/888448b6-5bbc-49f6-a983-1bfe303db6e3)
+![image](https://github.com/user-attachments/assets/8667e0a6-c45b-49f5-91eb-2c7aac836e6e)
+![image](https://github.com/user-attachments/assets/647fd245-d9f7-4cfc-bc95-37fa4139fcd7)
+
+
+
+
 
