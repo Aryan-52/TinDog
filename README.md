@@ -24,7 +24,7 @@ Feel free to fork the repository, make changes, and submit a pull request. Contr
 
 ## 🙋‍♂️ Contact
 
-For any questions or feedback, please reach out to [aryandandekar14@gmail.com](mailto:https://mail.google.com/mail/u/0/?pli=1#inbox).
+For any questions or feedback, please reach out to [aryandandekar14@gmail.com].
 
 ---
 
