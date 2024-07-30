@@ -4,6 +4,11 @@ Welcome to **TinDog**, the ultimate website where dogs can meet and mingle with 
 
 It is basically just a Home Page of the site.
 
+## Technologies Used
+- HTML
+- CSS
+- Bootstrap
+
 ## 📦 Installation
 
 To get started with TinDog locally, clone the repository and open `index.html` in your browser.
